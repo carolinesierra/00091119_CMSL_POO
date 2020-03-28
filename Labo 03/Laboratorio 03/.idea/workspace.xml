@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d800a8dc-9e7a-48d2-b122-59dc68080019" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Laboratorio 03" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zgi2jpsHyH24jGKAopSIU7Tc2P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Libros" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.CMSL.x00091119.Main" />
+      <module name="Laboratorio 03" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d800a8dc-9e7a-48d2-b122-59dc68080019" name="Default Changelist" comment="" />
+      <created>1585266932328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585266932328</updated>
+      <workItem from="1585266935164" duration="44886000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Inspections" timestamp="1585358625856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1585358625856" />
+    <state x="906" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1585418069611">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="906" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585418069611" />
+    <state x="665" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585346143975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="665" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585346143975" />
+    <state x="715" y="115" key="FileChooserDialogImpl" timestamp="1585348605502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="715" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585348605502" />
+    <state x="264" y="112" key="caller.chooser.dialog" timestamp="1585372127904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="264" y="112" key="caller.chooser.dialog/0.0.1366.728@0.0.1366.728" timestamp="1585372127904" />
+    <state x="503" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1585371918799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="503" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1585371918799" />
+    <state x="501" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585349180036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="501" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585349180036" />
+  </component>
+</project>
