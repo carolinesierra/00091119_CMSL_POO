@@ -18,7 +18,7 @@ namespace Ejercicio05
                 Console.WriteLine("Digite la letra que desea agregar al listado: ");
                 v = Convert.ToChar(Console.ReadLine());
               
-                if ((v == 'A') || (v == 'A') || (v == 'a')
+                if ((v == 'A') ||  (v == 'a')
                                || (v == 'E') || (v == 'e')
                                || (v == 'I') || (v == 'i')
                                || (v == 'O') || (v == 'o')
