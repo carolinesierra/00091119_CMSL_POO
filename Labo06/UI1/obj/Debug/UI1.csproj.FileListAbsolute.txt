@@ -1,0 +1,9 @@
+C:\Users\Joaquin\RiderProjects\UI1\bin\Debug\UI1.exe.config
+C:\Users\Joaquin\RiderProjects\UI1\bin\Debug\UI1.exe
+C:\Users\Joaquin\RiderProjects\UI1\bin\Debug\UI1.pdb
+C:\Users\Joaquin\RiderProjects\UI1\obj\Debug\UI1.csprojAssemblyReference.cache
+C:\Users\Joaquin\RiderProjects\UI1\obj\Debug\UI1.Properties.Resources.resources
+C:\Users\Joaquin\RiderProjects\UI1\obj\Debug\UI1.csproj.GenerateResource.cache
+C:\Users\Joaquin\RiderProjects\UI1\obj\Debug\UI1.exe
+C:\Users\Joaquin\RiderProjects\UI1\obj\Debug\UI1.pdb
+C:\Users\Joaquin\RiderProjects\UI1\obj\Debug\UI1.Form1.resources
