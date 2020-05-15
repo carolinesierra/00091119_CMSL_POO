@@ -1,0 +1,11 @@
+C:\Users\Joaquin\RiderProjects\UI3\bin\Debug\UI3.exe.config
+C:\Users\Joaquin\RiderProjects\UI3\bin\Debug\UI3.pdb
+C:\Users\Joaquin\RiderProjects\UI3\obj\Debug\UI3.csprojAssemblyReference.cache
+C:\Users\Joaquin\RiderProjects\UI3\obj\Debug\UI3.Properties.Resources.resources
+C:\Users\Joaquin\RiderProjects\UI3\obj\Debug\UI3.csproj.GenerateResource.cache
+C:\Users\Joaquin\RiderProjects\UI3\obj\Debug\UI3.exe
+C:\Users\Joaquin\RiderProjects\UI3\obj\Debug\UI3.pdb
+C:\Users\Joaquin\RiderProjects\UI3\obj\Debug\UI3.Login.resources
+C:\Users\Joaquin\RiderProjects\UI3\obj\Debug\UI3.Register.resources
+C:\Users\Joaquin\RiderProjects\UI3\obj\Debug\UI3.Form1.resources
+C:\Users\Joaquin\RiderProjects\UI3\obj\Debug\UI3.csproj.CopyComplete
